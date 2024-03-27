@@ -1,7 +1,5 @@
 package org.example.functions
 
-import org.example.calculateAvailableSpace
-
 /**
  * Bir fonksiyon herhangi bir sinifin icerisinde degil de bir dosyanin icerisinde boslukta tanimlaniyorsa top level
  * function adini alir.
