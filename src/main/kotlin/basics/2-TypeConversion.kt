@@ -1,4 +1,4 @@
-package org.example
+package org.example.basics
 
 /**
  * Implicit Type Conversion:Ortulu -> Belirgin olmayan sekilde tip donusumu
